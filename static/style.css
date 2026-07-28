@@ -1,0 +1,27 @@
+body{
+
+background:#f4f4f4;
+font-family:Arial;
+text-align:center;
+
+}
+
+.container{
+
+margin-top:100px;
+
+}
+
+button{
+
+padding:15px 30px;
+font-size:20px;
+cursor:pointer;
+
+}
+
+p{
+
+font-size:20px;
+
+}
